@@ -1,7 +1,7 @@
 # Hi, I'm Utej! 👋  
 
 ### 🚀 About Me  
-- 🎯 Passionate about **Java, Full-Stack Web Development, and AI.**  
+- 🎯 Passionate about **Java, BackEnd Development, and AI.**  
 - 🔥 Experimenting with **React, Spring Boot, and SQL.**  
 - 🎮 Casual **Valorant gamer.** and beginner **Manga Addict.**  
 
