@@ -16,11 +16,10 @@
 ---
 
 ### 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=Nehanth&theme=dark&border_radius=5)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nehanth&show_icons=true&theme=dark)  
+![GitHub Streak](https://streak-stats.demolab.com?user=utej8553&theme=dark&border_radius=5)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utej8553&show_icons=true&theme=dark)  
 
 ---
 
 ### 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Nehanth/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Utej_Avulla/)  
