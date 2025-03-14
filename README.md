@@ -28,7 +28,7 @@
 
 ---
 
-### 📊 GitHub & LeetCode Stats  
+### 📊 GitHub Stats and Activity  
 <table>
   <tr>
     <td>
@@ -39,19 +39,19 @@
     </td>
   </tr>
 </table>
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=utej8553&theme=github-dark" alt="GitHub Activity Graph" />
 
+---
+
+### 📌 LeetCode
 <table>
   <tr>
     <td>
       <img src="https://leetcard.jacoblin.cool/Utej_Avulla?theme=dark" alt="LeetCode Stats">
     </td>
   </tr>
-</table>
-
----
-
-### 📌 GitHub Activity  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=utej8553&theme=github-dark" alt="GitHub Activity Graph" />
+</table>  
 
 ---
 
