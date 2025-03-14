@@ -23,11 +23,15 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats & Activity  
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=utej8553&theme=dark&border_radius=5)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=utej8553&show_icons=true&theme=dark)  
+<a href="https://github.com/utej8553">
+  <img src="https://github-readme-stats.vercel.app/api?username=utej8553&show_icons=true&theme=dark" height="180px"/>
+</a>
+<a href="https://github.com/utej8553?tab=activity">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=utej8553&theme=github-dark&hide_border=true" height="180px"/>
+</a>
 
 </div>
 
@@ -46,5 +50,6 @@
 <div align="center">
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Utej_Avulla/)  
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)  
 
 </div>
