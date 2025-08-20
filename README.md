@@ -1,1 +1,1 @@
-Hehe
+![Funny GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.fantasticmedia.co.uk%2Fnews%2F10-funny-animated-gifs%2F&psig=AOvVaw11xBG57NO_oq8G9ARE68lO&ust=1755762779871000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMjktPnzmI8DFQAAAAAdAAAAABAE)
