@@ -1,5 +1,5 @@
 
 <p align="center">
-  <img src="pokemon-squirtle.gif" width="100%" alt="Funny GIF">
+  <img src="pokemon-squirtle.gif" height="350px" alt="Funny GIF">
 </p>
 
