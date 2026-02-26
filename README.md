@@ -1,1 +1,1 @@
-<img src="pokemon-squirtle.gif" width="200"/>
+<img src="pokemon-squirtle.gif" width="100"/>
