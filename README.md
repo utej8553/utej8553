@@ -1,1 +1,1 @@
-![Demo](pokemon-squirtle.gif)
+<img src="pokemon-squirtle.gif" width="500"/>
